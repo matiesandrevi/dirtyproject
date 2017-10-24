@@ -1,9 +1,9 @@
 # dirtyproject
-Test project with all kinds of files
+Projecte de test
 ## Getting Started
-This project is for test purpose only, and will contain all kind of source files including C++ python or what ever I need to put in It. So please do not use any of the files listed in this repository.
+Aquest projecte no conté cap tipus d’informació rellevant ara per ara, pot ser modificat o eliminat en qualsevol moment.. 
 ### Prerequisites
-Say what the step will be
+Cap
 
 ```
 Give the example
